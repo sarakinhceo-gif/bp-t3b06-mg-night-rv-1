@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity a8fb9ba95bc7d26e</metadata>
-  <rect width="64" height="64" rx="10" fill="hsl(59 77% 43%)"/>
-  <path d="M28 0h36v64H14Z" fill="hsl(117 68% 72%)" opacity="0.82"/>
-  <g transform="rotate(191 32 32)" opacity="0.42"><path d="M13 45c7-23 31-23 38 0" fill="none" stroke="#101418" stroke-width="8" stroke-linecap="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">MC</text>
+  <title>마곡 유흥 후기</title>
+  <rect width="64" height="64" rx="16" fill="hsl(59 75% 31%)"/>
+  <g transform="rotate(270 32 32)"><circle cx="32" cy="32" r="17" fill="none" stroke="hsl(59 24% 96%)" stroke-width="8"/><circle cx="32" cy="32" r="7" fill="hsl(139 68% 64%)"/></g>
 </svg>
